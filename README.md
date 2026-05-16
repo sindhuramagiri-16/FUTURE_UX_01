@@ -130,6 +130,8 @@ Based in Hyderabad, Telangana, India
 **Contact:**
 - Phone: +91 98765 43210
 - Location: Road No 36, Jubilee Hills, Hyderabad, Telangana 500033
+##Figma Link
+https://www.figma.com/make/xckhligLCWJg65fmhBT6JO/HOME---HUE---Interior-Design?t=4iVsGdRoimKudG37-1
 
 ## Author
 
