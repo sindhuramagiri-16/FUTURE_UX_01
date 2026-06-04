@@ -132,6 +132,18 @@ Based in Hyderabad, Telangana, India
 - Location: Road No 36, Jubilee Hills, Hyderabad, Telangana 500033
 ##Figma Link
 https://www.figma.com/make/xckhligLCWJg65fmhBT6JO/HOME---HUE---Interior-Design?code-node-id=0-9&p=f&t=pbMQmxBIVskCdTU4-0&fullscreen=1
+## Screenshots
+
+![Homepage](Screenshots/homepage.png)
+
+![Services Page](Screenshots/services-page.png)
+
+![Portfolio Gallery](Screenshots/portfolio-gallery.png)
+
+![Contact Page](Screenshots/contact-page.png)
+
+![Mobile View](Screenshots/mobile-view.png)
+
 ## Author
 
 Created as part of the Future Interns UI/UX Design Task
