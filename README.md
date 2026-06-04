@@ -145,14 +145,3 @@ https://www.figma.com/make/xckhligLCWJg65fmhBT6JO/HOME---HUE---Interior-Design?c
 
 ![Mobile View](Screenshots/mobile-view.png)
 
-## Author
-
-Created as part of the Future Interns UI/UX Design Task
-
-## License
-
-This project is created for educational and portfolio purposes.
-
----
-
-**HOME & HUE** - Designing Spaces That Feel Like Home
