@@ -137,6 +137,7 @@ https://www.figma.com/make/xckhligLCWJg65fmhBT6JO/HOME---HUE---Interior-Design?c
 ![Homepage](Screenshots/homepage.png)
 
 ![Services Page](Screenshots/services-page.png)
+![ServicesS Page](Screenshots/services-page.png)
 
 ![Portfolio Gallery](Screenshots/portfolio-gallery.png)
 
